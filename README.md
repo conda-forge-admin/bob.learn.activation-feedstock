@@ -11,6 +11,18 @@ Summary: Bindings for bob.machine's Activation functors
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/bob.learn.activation-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/bob.learn.activation-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/bob.learn.activation-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/bob.learn.activation-feedstock)
+Windows: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bob.learn.activation/badges/version.svg)](https://anaconda.org/conda-forge/bob.learn.activation)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bob.learn.activation/badges/downloads.svg)](https://anaconda.org/conda-forge/bob.learn.activation)
+
 Installing bob.learn.activation
 ===============================
 
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `bob.learn.activation` available o
 ```
 conda search bob.learn.activation --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/bob.learn.activation-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/bob.learn.activation-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/bob.learn.activation-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/bob.learn.activation-feedstock)
-Windows: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bob.learn.activation/badges/version.svg)](https://anaconda.org/conda-forge/bob.learn.activation)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bob.learn.activation/badges/downloads.svg)](https://anaconda.org/conda-forge/bob.learn.activation)
 
 
 Updating bob.learn.activation-feedstock
